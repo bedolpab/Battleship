@@ -1,6 +1,8 @@
 *.o
-.ccls-cache
+.ccls-cache/
 *.replit
 *.nix
 Makefile
+main
+
 
