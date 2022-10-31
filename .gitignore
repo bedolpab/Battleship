@@ -1,0 +1,6 @@
+*.o
+.ccls-cache
+*.replit
+*.nix
+Makefile
+
